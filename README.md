@@ -1,134 +1,111 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:FF00FF&height=180&section=header&text=AMIT%20KUMAR%20DAS&fontSize=42&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=800&color=00FFFF&center=true&vCenter=true&width=700&lines=Cybersecurity+Analyst;Linux+%7C+Networking+%7C+Security;Security+Automation;Build+%E2%80%A2+Break+%E2%80%A2+Analyze+%E2%80%A2+Defend" alt="Typing SVG"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,50:8A2BE2,100:FF00FF&height=200&section=header&text=AMIT%20KUMAR%20DAS&fontSize=44&fontColor=FFFFFF&fontAlignY=35&animation=twinkling&fontFamily=Fira+Code" width="100%"/>
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Cybersecurity Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=00FFFF&center=true&vCenter=true&width=850&lines=CYBERSECURITY+ANALYST;LINUX+%7C+NETWORKING+%7C+SECURITY;SECURITY+AUTOMATION;BUILDING+%26+BREAKING+SYSTEMS" alt="Typing Animation"/>
 
 <br>
 
-<a href="https://github.com/itjustamit">
-<img src="https://komarev.com/ghpvc/?username=itjustamit&label=PROFILE%20VIEWS&color=00FFFF&style=for-the-badge" alt="Profile Views">
-</a>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Cyber Animation"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=itjustamit&label=PROFILE%20VIEWS&color=00FFFF&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/itjustamit?label=FOLLOWERS&style=for-the-badge&color=FF00FF"/>
 
 </div>
 
 ---
 
 <div align="center">
+<h2>🛡️ SECURITY TERMINAL</h2>
 
-## 🧑‍💻 SYSTEM ONLINE
+<pre>
+╔══════════════════════════════════════════════════════╗
+║                 SECURITY TERMINAL                    ║
+╠══════════════════════════════════════════════════════╣
+║  USER      : AMIT KUMAR DAS                           ║
+║  ROLE      : CYBERSECURITY ANALYST                    ║
+║  STATUS    : ● ONLINE                                 ║
+║  OS        : LINUX / WINDOWS                          ║
+║  FOCUS     : SECURITY ENGINEERING                     ║
+║                                                        ║
+║  SYSTEM SECURITY                                      ║
+║  [████████████████████████████████████] 100%          ║
+╚══════════════════════════════════════════════════════╝
+</pre>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=600&color=FF00FF&center=true&vCenter=true&width=700&lines=%5BSYSTEM%5D+Initializing+security+profile...;%5BOK%5D+Linux+environment+loaded;%5BOK%5D+Networking+modules+loaded;%5BOK%5D+Security+tools+ready;%5BSTATUS%5D+Ready+for+the+next+challenge..." alt="System Status"/>
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2000&pause=500&color=FF00FF&center=true&vCenter=true&width=700&lines=%5BSYSTEM%5D+Initializing...;%5BOK%5D+Security+modules+loaded;%5BOK%5D+Network+modules+loaded;%5BOK%5D+Linux+environment+ready;%5BSTATUS%5D+SYSTEM+ONLINE" alt="System Animation"/>
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 WHOAMI
 
 <table>
 <tr>
+<td width="65%" valign="top">
 
-<td width="60%">
+<h3>🔐 About Me</h3>
 
-I'm a **Cybersecurity Analyst** focused on understanding systems, identifying weaknesses, and building practical security solutions.
-
-I enjoy working with:
-
-- 🛡️ Cybersecurity
-- 🐧 Linux & Systems
-- 🌐 Networking
-- ⚙️ Security Automation
-- 🔎 Vulnerability Assessment
-- 🧪 Security Labs
-- 💻 Scripting & Tools
-
-### 🧠 My Approach
-
-**Learn → Build → Break → Analyze → Secure → Repeat 🔁**
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=700&color=00FFFF&width=600&lines=Understanding+systems...;Finding+weaknesses...;Analyzing+threats...;Building+defenses...;Automating+security..." alt="Cybersecurity Process"/>
-
-</td>
-
-<td width="40%" align="center">
-
-<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/Developer.gif" width="180px" alt="Developer Animation"/>
+I'm a <b>Cybersecurity Analyst</b> interested in understanding how systems work, identifying weaknesses, analyzing threats, and building practical security solutions.
 
 <br><br>
+<b>Areas of Interest</b>
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=linux,python,bash,git,github" width="250">
+🛡️ Cybersecurity &nbsp;&nbsp; 🐧 Linux & Systems &nbsp;&nbsp; 🌐 Networking
+<br>
+⚙️ Security Automation &nbsp;&nbsp; 🔎 Vulnerability Assessment
+<br>
+🧪 Security Labs &nbsp;&nbsp; 💻 Scripting & Security Tools
+
+<br><br>
+<b>My Mindset</b>
+<br>
+
+`Learn → Build → Break → Analyze → Secure → Repeat 🔁`
 
 </td>
+<td width="35%" align="center">
 
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/Developer.gif" width="200px" alt="Developer"/>
+<br><br>
+<img src="https://skillicons.dev/icons?i=linux,python,bash,git,github" width="240px"/>
+
+</td>
 </tr>
 </table>
 
 ---
 
-## 🛡️ Cybersecurity Focus
+<div align="center">
+
+## 🛡️ SECURITY MATRIX
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=700&color=FF00FF&center=true&vCenter=true&width=650&lines=Scanning+skill+matrix...;Cross-referencing+arsenal..." alt="Matrix Scan"/>
+</div>
 
 <table align="center">
 <tr>
-
 <td align="center" width="25%">
-
-<img src="https://img.icons8.com/?size=100&id=15267&format=png" width="65">
-
-### Security
-
-Threat Detection  
-Security Analysis  
-Vulnerability Assessment  
-System Hardening
-
+<h2>🔐</h2><b>SECURITY</b><br><br>
+Threat Detection<br>Security Analysis<br>Vulnerability Assessment<br>System Hardening
 </td>
-
 <td align="center" width="25%">
-
-<img src="https://img.icons8.com/?size=100&id=17842&format=png" width="65">
-
-### Systems
-
-Linux  
-Bash  
-Windows  
-System Administration
-
+<h2>🐧</h2><b>SYSTEMS</b><br><br>
+Linux<br>Bash<br>Windows<br>Administration
 </td>
-
 <td align="center" width="25%">
-
-<img src="https://img.icons8.com/?size=100&id=1379&format=png" width="65">
-
-### Networking
-
-TCP/IP  
-DNS  
-SSH  
-Network Analysis
-
+<h2>🌐</h2><b>NETWORK</b><br><br>
+TCP/IP<br>DNS<br>SSH<br>Traffic Analysis
 </td>
-
 <td align="center" width="25%">
-
-<img src="https://img.icons8.com/?size=100&id=13444&format=png" width="65">
-
-### Automation
-
-Python  
-Shell Scripting  
-CLI Tools  
-Security Automation
-
+<h2>⚙️</h2><b>AUTOMATION</b><br><br>
+Python<br>Shell<br>CLI Tools<br>Security Automation
 </td>
-
 </tr>
 </table>
 
@@ -136,103 +113,105 @@ Security Automation
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=700&color=00FFFF&center=true&vCenter=true&width=700&lines=%3E%3E+ACCESSING+PROJECTS...;%3E%3E+LOADING+SECURITY+TOOLS...;%3E%3E+PROJECTS+ONLINE..." alt="Projects Loading"/>
+## 📊 LIVE STATS
+
+<img src="https://github-readme-stats.vercel.app/api?username=itjustamit&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&border_color=00FFFF&hide_border=false&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=itjustamit&theme=tokyonight&background=0D1117&ring=FF00FF&fire=00FFFF&currStreakLabel=00FFFF&border=00FFFF" height="165"/>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itjustamit&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&border_color=00FFFF&hide_border=false" height="165"/>
+<img src="https://github-profile-trophy.vercel.app/?username=itjustamit&theme=tokyonight&no-frame=true&margin-w=8&row=2&column=3" height="165"/>
 
 </div>
 
-## 🚀 Featured Projects
+---
+
+<div align="center">
+
+## 📈 CONTRIBUTION ACTIVITY
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=itjustamit&theme=tokyo-night&bg_color=0D1117&color=00FFFF&line=FF00FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+
+<br><br>
+
+<!-- Snake contribution animation — requires a one-time GitHub Action in your profile repo (itjustamit/itjustamit). See note below the file. -->
+<img src="https://raw.githubusercontent.com/itjustamit/itjustamit/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation"/>
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=600&color=00FFFF&center=true&vCenter=true&width=700&lines=%3E%3E+ACCESSING+PROJECT+DATABASE...;%3E%3E+PROJECTS+FOUND;%3E%3E+LOADING+SECURITY+LABS..." alt="Project Animation"/>
+</div>
+
+# 🚀 FEATURED PROJECTS
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
-<h3>🛡️ HoneyShield</h3>
-
+<h2>🛡️ HoneyShield</h2>
 <b>Honeypot & Security Project</b>
-
-<p>
-A practical cybersecurity project focused on honeypot concepts and monitoring suspicious activity.
-</p>
-
-<p>
-<b>Tech:</b><br>
+<br><br>
+A practical cybersecurity project focused on honeypot concepts and suspicious activity monitoring.
+<br><br>
+<b>Technology</b>
+<br><br>
 Python • Linux • Networking • Security
-</p>
-
+<br><br>
 <a href="https://github.com/itjustamit/honeyshield">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-00FFFF?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/OPEN%20PROJECT-00FFFF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
-
 </td>
-
 <td width="50%" valign="top">
 
-<h3>⚡ CMD-tool</h3>
-
+<h2>⚡ CMD-tool</h2>
 <b>Command Line Utilities</b>
-
-<p>
-A practical command-line project built around system operations and automation.
-</p>
-
-<p>
-<b>Tech:</b><br>
+<br><br>
+Practical command-line tools designed around system operations and automation.
+<br><br>
+<b>Technology</b>
+<br><br>
 Batch • Windows • CLI
-</p>
-
+<br><br>
 <a href="https://github.com/itjustamit/CMD-tool">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-FF00FF?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/OPEN%20PROJECT-FF00FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 </td>
-
 </tr>
-
 <tr>
-
 <td width="50%" valign="top">
 
-<h3>🖥️ MagiskOnWSALocal</h3>
-
+<h2>🖥️ MagiskOnWSALocal</h2>
 <b>Windows Subsystem for Android</b>
-
-<p>
-A project related to integrating Magisk root and Google Apps into WSA.
-</p>
-
-<p>
-<b>Tech:</b><br>
+<br><br>
+A project related to Magisk root and Google Apps integration in WSA.
+<br><br>
+<b>Technology</b>
+<br><br>
 Shell • Windows • WSA
-</p>
-
+<br><br>
 <a href="https://github.com/itjustamit/MagiskOnWSALocal">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-00FFFF?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/OPEN%20PROJECT-00FFFF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
-
 </td>
-
 <td width="50%" valign="top">
 
-<h3>🌐 Personal Portfolio</h3>
-
-<b>My Personal Website</b>
-
-<p>
+<h2>🌐 Personal Portfolio</h2>
+<b>My Website</b>
+<br><br>
 My portfolio, projects, and online presence.
-</p>
-
-<p>
-<b>Tech:</b><br>
+<br><br>
+<b>Technology</b>
+<br><br>
 HTML • CSS
-</p>
-
+<br><br>
 <a href="https://itjustamit.github.io/">
-<img src="https://img.shields.io/badge/VISIT%20WEBSITE-FF00FF?style=for-the-badge&logo=googlechrome&logoColor=white">
+<img src="https://img.shields.io/badge/OPEN%20PORTFOLIO-FF00FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
-
 </td>
-
 </tr>
 </table>
 
@@ -240,221 +219,140 @@ HTML • CSS
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2300&pause=700&color=FF00FF&center=true&vCenter=true&width=700&lines=%3E+LOADING+SECURITY+TOOLKIT...;%3E+TOOLS+INITIALIZED;%3E+ENVIRONMENT+READY..." alt="Toolkit Animation"/>
+## 🧰 SECURITY ARSENAL
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1900&pause=500&color=FF00FF&center=true&vCenter=true&width=700&lines=%5B%2B%5D+Loading+security+arsenal...;%5B%2B%5D+Linux+ready;%5B%2B%5D+Python+ready;%5B%2B%5D+Networking+ready;%5B%2B%5D+Automation+ready;%5BOK%5D+ARSENAL+ONLINE" alt="Arsenal Animation"/>
+
+<br>
+
+<h3>💻 Programming</h3>
+<img src="https://skillicons.dev/icons?i=python,bash,javascript"/>
+
+<h3>🐧 Operating Systems</h3>
+<img src="https://skillicons.dev/icons?i=linux,windows"/>
+
+<h3>⚙️ Development</h3>
+<img src="https://skillicons.dev/icons?i=git,github,docker,mysql"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/LINUX%20SECURITY-111111?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+<img src="https://img.shields.io/badge/NETWORK%20SECURITY-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SECURITY%20AUTOMATION-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VULNERABILITY%20ASSESSMENT-111111?style=for-the-badge"/>
 
 </div>
 
-## 🧰 Tech Stack
-
-### 💻 Programming & Scripting
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,bash,javascript">
-</p>
-
-### 🐧 Operating Systems
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=linux,windows">
-</p>
-
-### ⚙️ Development & Infrastructure
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,mysql">
-</p>
-
-### 🛡️ Security Areas
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/LINUX%20SECURITY-111111?style=for-the-badge&logo=linux&logoColor=FCC624">
-
-<img src="https://img.shields.io/badge/NETWORK%20SECURITY-111111?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/VULNERABILITY%20ASSESSMENT-111111?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/SECURITY%20AUTOMATION-111111?style=for-the-badge">
-
-</p>
-
 ---
 
-## 💻 Current Mission
+# 💻 CURRENT MISSION
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=1800&pause=500&color=00FFFF&center=true&vCenter=true&width=750&lines=%5B%2B%5D+Building+practical+cybersecurity+projects;%5B%2B%5D+Strengthening+Linux+%26+networking;%5B%2B%5D+Improving+security+automation;%5B%2B%5D+Learning+threat+detection;%5B%2B%5D+Building+security-focused+tools;%5BSTATUS%5D+MISSION+ACTIVE+%F0%9F%9A%80" alt="Current Mission"/>
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=1800&pause=450&color=00FFFF&center=true&vCenter=true&width=800&lines=%5B%2B%5D+Building+security+projects;%5B%2B%5D+Learning+network+security;%5B%2B%5D+Improving+Linux+skills;%5B%2B%5D+Automating+security+tasks;%5B%2B%5D+Exploring+threat+detection;%5BSTATUS%5D+MISSION+ACTIVE" alt="Mission Animation"/>
 </div>
 
 <br>
 
 <pre>
-┌──────────────────────────────────────────────────────┐
-│                    MISSION STATUS                   │
-├──────────────────────────────────────────────────────┤
-│                                                      │
-│  [+] Cybersecurity Projects        ACTIVE            │
-│  [+] Linux & Networking             ACTIVE            │
-│  [+] Security Automation            ACTIVE            │
-│  [+] Threat Detection               LEARNING          │
-│  [+] Security Engineering           BUILDING         │
-│                                                      │
-└──────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────┐
+│                    MISSION CONTROL                      │
+├─────────────────────────────────────────────────────────┤
+│  [✓] Linux & System Security              ACTIVE        │
+│  [✓] Networking & Infrastructure          ACTIVE        │
+│  [✓] Security Automation                  ACTIVE        │
+│  [✓] Threat Detection                   LEARNING        │
+│  [✓] Vulnerability Assessment            LEARNING        │
+│  [✓] Security Engineering                BUILDING       │
+└─────────────────────────────────────────────────────────┘
 </pre>
 
 ---
 
-## 🔬 What I'm Exploring
+<div align="center">
+
+## 🔬 RESEARCH LAB
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2400&pause=650&color=00FFFF&center=true&vCenter=true&width=700&lines=Studying+systems...;Analyzing+networks...;Testing+security...;Automating+tasks...;Building+better+defenses..." alt="Research Animation"/>
+</div>
 
 <table align="center">
-
 <tr>
-
-<td align="center">
-<h3>01</h3>
-🔐
-<br>
-<b>Cybersecurity Engineering</b>
-</td>
-
-<td align="center">
-<h3>02</h3>
-🌐
-<br>
-<b>Network Security</b>
-</td>
-
-<td align="center">
-<h3>03</h3>
-🐧
-<br>
-<b>Linux Security</b>
-</td>
-
-<td align="center">
-<h3>04</h3>
-🔎
-<br>
-<b>Vulnerability Assessment</b>
-</td>
-
+<td align="center"><h2>🔐</h2><b>Cybersecurity Engineering</b></td>
+<td align="center"><h2>🌐</h2><b>Network Security</b></td>
+<td align="center"><h2>🐧</h2><b>Linux Security</b></td>
+<td align="center"><h2>🔎</h2><b>Vulnerability Assessment</b></td>
 </tr>
-
 <tr>
-
-<td align="center">
-<h3>05</h3>
-🕵️
-<br>
-<b>Threat Detection</b>
-</td>
-
-<td align="center">
-<h3>06</h3>
-⚙️
-<br>
-<b>Security Automation</b>
-</td>
-
-<td align="center">
-<h3>07</h3>
-☁️
-<br>
-<b>Cloud Security</b>
-</td>
-
-<td align="center">
-<h3>08</h3>
-🧪
-<br>
-<b>Security Labs</b>
-</td>
-
+<td align="center"><h2>🕵️</h2><b>Threat Detection</b></td>
+<td align="center"><h2>⚙️</h2><b>Security Automation</b></td>
+<td align="center"><h2>☁️</h2><b>Cloud Security</b></td>
+<td align="center"><h2>🧪</h2><b>Security Labs</b></td>
 </tr>
-
 </table>
 
 ---
 
-## 🧪 Cybersecurity Learning
+# 🧪 CYBERSECURITY LABS
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=700&color=00FFFF&center=true&vCenter=true&width=700&lines=Training+Mode+Enabled...;Practice+Labs+Online...;Learn+by+Doing...;Break+It+%E2%86%92+Understand+It+%E2%86%92+Secure+It..." alt="Learning Animation"/>
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
+<img src="https://img.shields.io/badge/CTF%20LABS-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LINUX%20LABS-111111?style=for-the-badge&logo=linux&logoColor=FCC624"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red">
-
-<img src="https://img.shields.io/badge/CTF-LABS-111111?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/LINUX-LABS-111111?style=for-the-badge&logo=linux&logoColor=FCC624">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=600&color=FF00FF&center=true&vCenter=true&width=650&lines=Learn+by+doing.;Break+it+to+understand+it.;Understand+it+to+secure+it." alt="Lab Animation"/>
 
 </div>
 
 ---
 
-## 🎯 Career Direction
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=700&color=FF00FF&center=true&vCenter=true&width=700&lines=CYBERSECURITY;SECURITY+ENGINEERING;NETWORK+SECURITY;SECURITY+AUTOMATION;BUILDING+TOWARD+SECURITY+ENGINEERING" alt="Career Direction"/>
-
-</div>
-
-<br>
+# 🎯 SECURITY ROADMAP
 
 <pre>
-                    CYBERSECURITY
-                          │
-          ┌───────────────┼───────────────┐
-          │               │               │
-       DEFENSE        ENGINEERING      AUTOMATION
-          │               │               │
-         SOC            LINUX            PYTHON
-         SIEM         NETWORKING          BASH
-         IR           HARDENING           TOOLS
-          │               │               │
-          └───────────────┼───────────────┘
-                          │
-                    SECURITY ENGINEER
+                         CYBERSECURITY
+                               │
+               ┌───────────────┼───────────────┐
+               │               │               │
+            DEFENSE        ENGINEERING      AUTOMATION
+               │               │               │
+              SOC             LINUX           PYTHON
+              SIEM         NETWORKING          BASH
+              IR            HARDENING          TOOLS
+               │               │               │
+               └───────────────┼───────────────┘
+                               │
+                         SECURITY ENGINEER
 </pre>
 
 ---
 
-## 🌐 Connect With Me
-
 <div align="center">
+
+# 🌐 CONNECT WITH ME
+
+<br>
 
 <a href="https://www.linkedin.com/in/itjustamit">
-<img src="https://img.shields.io/badge/LINKEDIN-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black">
+<img src="https://img.shields.io/badge/LINKEDIN-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
-
 <a href="https://x.com/itjustamit">
-<img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white">
+<img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
-
 <a href="https://www.youtube.com/@itjustamit">
-<img src="https://img.shields.io/badge/YOUTUBE-FF00FF?style=for-the-badge&logo=youtube&logoColor=white">
+<img src="https://img.shields.io/badge/YOUTUBE-FF00FF?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
-
 <a href="mailto:itjustamit@outlook.com">
-<img src="https://img.shields.io/badge/EMAIL-00FFFF?style=for-the-badge&logo=microsoftoutlook&logoColor=black">
+<img src="https://img.shields.io/badge/EMAIL-00FFFF?style=for-the-badge&logo=microsoftoutlook&logoColor=black"/>
 </a>
-
 <a href="https://itjustamit.github.io/">
-<img src="https://img.shields.io/badge/PORTFOLIO-FF00FF?style=for-the-badge&logo=googlechrome&logoColor=white">
+<img src="https://img.shields.io/badge/PORTFOLIO-FF00FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-</div>
+<br><br>
 
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&width=700&lines=Understand+the+system.;Find+the+weakness.;Build+the+defense.;Secure+the+future.+%F0%9F%94%90" alt="Security Mindset"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=700&color=00FFFF&center=true&vCenter=true&width=700&lines=Always+learning.;Always+building.;Always+securing.+%F0%9F%94%90" alt="Footer Animation"/>
 
 <br><br>
 
@@ -462,8 +360,8 @@ HTML • CSS
 
 <br><br>
 
-<b>⚡ Explore • Experiment • Break • Analyze • Defend ⚡</b>
+<b>⚡ EXPLORE • EXPERIMENT • BREAK • ANALYZE • DEFEND ⚡</b>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:00FFFF&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:8A2BE2,100:00FFFF&height=140&section=footer&animation=twinkling" width="100%"/>
