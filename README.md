@@ -1,14 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0F3460,60:1F6FEB,100:A371F7&height=200&section=header&text=AMIT%20KUMAR%20DAS&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Cybersecurity%20Analyst%20%7C%20Linux%20Enthusiast%20%7C%20Security%20Engineer&descAlignY=58&descSize=18&animation=twinkling" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=850&lines=🛡️+Cybersecurity+Analyst;🐧+Linux+%26+Systems+Engineer;🌐+Network+Security+Specialist;⚙️+Security+Automation+Builder;🔎+Vulnerability+Assessment+Expert;💡+Learn+→+Build+→+Break+→+Secure" alt="Typing Animation"/>
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0F3460,60:1F6FEB,100:A371F7&height=220&section=header&text=AMIT%20KUMAR%20DAS&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Cybersecurity%20Analyst%20%7C%20Linux%20Enthusiast%20%7C%20Security%20Engineer&descAlignY=58&descSize=18&animation=twinkling" width="100%"/>
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=itjustamit&label=PROFILE%20VIEWS&color=1F6FEB&style=for-the-badge&logo=github)](https://github.com/itjustamit)
+<!-- BADGES ROW -->
+[![Profile Views](https://komarev.com/ghpvc/?username=itjustamit&label=PROFILE+VIEWS&color=1F6FEB&style=for-the-badge)](https://github.com/itjustamit)
 [![GitHub Followers](https://img.shields.io/github/followers/itjustamit?label=FOLLOWERS&style=for-the-badge&color=8957E5&logo=github)](https://github.com/itjustamit?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/itjustamit?label=STARS&style=for-the-badge&color=F78166&logo=github)](https://github.com/itjustamit)
+
+<br/>
+
+<!-- SKILL TAGS -->
+![Cybersecurity](https://img.shields.io/badge/🛡️_Cybersecurity-0D1117?style=flat-square&color=1F3A5F)
+![Linux](https://img.shields.io/badge/🐧_Linux-0D1117?style=flat-square&color=1F3A5F)
+![Networking](https://img.shields.io/badge/🌐_Networking-0D1117?style=flat-square&color=1F3A5F)
+![Security_Automation](https://img.shields.io/badge/⚙️_Security_Automation-0D1117?style=flat-square&color=1F3A5F)
+![Pentesting](https://img.shields.io/badge/💻_Pentesting-0D1117?style=flat-square&color=1F3A5F)
 
 </div>
 
@@ -29,13 +38,18 @@
 ║  FOCUS     │ SECURITY ENGINEERING & AUTOMATION               ║
 ║  LOCATION  │ INDIA 🇮🇳                                       ║
 ╠══════════════════════════════════════════════════════════════╣
-║  SKILL LEVEL    [████████████████████░░░] ADVANCING          ║
-║  THREAT DETECT  [███████████████████████] ACTIVE             ║
-║  SYSTEM HARDENING [█████████████████████] HARDENED           ║
+║                                                              ║
+║  SKILL LEVEL       [████████████████████░░░] ADVANCING       ║
+║  THREAT DETECT     [███████████████████████] ACTIVE          ║
+║  SYSTEM HARDENING  [█████████████████████░░] HARDENED        ║
+║                                                              ║
+║  [OK] Network modules loaded successfully                    ║
+║  [OK] Linux kernel hardened & ready                          ║
+║  [OK] Firewall rules applied                                 ║
+║  [STATUS] ALL SYSTEMS OPERATIONAL ✓                          ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=400&color=39D353&center=true&vCenter=true&width=700&lines=%5BSYSTEM%5D+Initializing+security+environment...;%5BOK%5D+Network+modules+loaded+successfully;%5BOK%5D+Linux+kernel+hardened+%26+ready;%5BOK%5D+Firewall+rules+applied;%5BOK%5D+Intrusion+detection+active;%5BSTATUS%5D+ALL+SYSTEMS+OPERATIONAL+✓" alt="System Animation"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:A371F7,100:1F6FEB&height=3" width="100%"/>
@@ -78,6 +92,8 @@ name: Amit Kumar Das
 role: Cybersecurity Analyst
 passion: Breaking things securely
 status: Always learning...
+os: Linux / Windows
+focus: Security Engineering
 ```
 
 </td>
@@ -131,25 +147,23 @@ status: Always learning...
 
 <div align="center">
 
-<!-- GitHub Stats Cards - using github-readme-stats (self-deployable, most reliable option) -->
-<a href="https://github.com/itjustamit">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itjustamit&show_icons=true&theme=tokyonight&bg_color=0D1117&border_color=1F6FEB&title_color=58A6FF&icon_color=A371F7&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itjustamit&layout=compact&theme=tokyonight&bg_color=0D1117&border_color=1F6FEB&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
-</a>
+<!-- Profile Summary Cards - more reliable than github-readme-stats -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itjustamit&theme=tokyonight" width="100%" alt="Profile Details"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itjustamit&theme=tokyonight" alt="Repos Per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itjustamit&theme=tokyonight" alt="Most Commit Language"/>
 
 <br/><br/>
 
-<!-- Streak Stats - demolab is the official maintained version -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itjustamit&theme=tokyonight" alt="Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=itjustamit&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
+
+<br/><br/>
+
+<!-- Streak Stats - demolab official (confirmed working) -->
 <img src="https://streak-stats.demolab.com/?user=itjustamit&theme=tokyonight-duo&background=0D1117&border=1F6FEB&ring=A371F7&fire=F78166&currStreakLabel=58A6FF&sideLabels=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&hide_border=false" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<!-- Contribution Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itjustamit/itjustamit/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itjustamit/itjustamit/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/itjustamit/itjustamit/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
 
 </div>
 
@@ -172,11 +186,11 @@ status: Always learning...
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:A371F7,100:1F6FEB&height=3" width="100%"/>
 
-## 🏆 ACHIEVEMENTS & CERTIFICATIONS
+## 🏆 GITHUB TROPHIES
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=itjustamit&theme=tokyonight&no-frame=false&no-bg=false&margin-w=8&margin-h=8&column=7&title=Stars,Commits,Repositories,PullRequest,Followers,Issues,Reviews" alt="GitHub Trophy"/>
+<img src="https://github-profile-trophy.vercel.app/?username=itjustamit&theme=tokyonight&no-frame=false&no-bg=true&margin-w=6&margin-h=6&column=6" alt="GitHub Trophy"/>
 
 </div>
 
@@ -207,11 +221,15 @@ status: Always learning...
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A371F7,50:1F6FEB,100:0D1117&height=150&section=footer&text=Keep%20Learning.%20Stay%20Secure.&fontSize=24&fontColor=FFFFFF&fontAlignY=65&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A371F7,50:1F6FEB,100:0D1117&height=150&section=footer&text=Keep%20Learning.%20Stay%20Secure.&fontSize=26&fontColor=FFFFFF&fontAlignY=65&animation=twinkling" width="100%"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=%5B%24%5D+sudo+apt+install+knowledge+--upgrade;%5B%24%5D+chmod+%2Bx+./learn.sh+%26%26+./learn.sh;%5B%24%5D+echo+'Never+stop+hacking+%26+learning!'" alt="Footer Animation"/>
+```bash
+[~]$ sudo apt install knowledge --upgrade
+[~]$ chmod +x ./learn.sh && ./learn.sh
+[~]$ echo "Never stop hacking & learning!"
+```
 
 *⭐ Star my repos if you find them useful! Every star motivates me to keep building.*
 
