@@ -184,19 +184,22 @@ focus: Security Engineering
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A371F7,100:1F6FEB&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:A371F7&height=3" width="100%"/>
 
-## 🏆 GITHUB TROPHIES
+## 🎯 CERTIFICATIONS IN PROGRESS
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=itjustamit&theme=tokyonight&no-frame=false&no-bg=true&margin-w=6&margin-h=6&column=6" alt="GitHub Trophy"/>
+| 🎓 Certification | 📊 Status | 🎯 Target |
+|:---:|:---:|:---:|
+| CompTIA Security+ | 🔄 Studying | Q1 2026 |
+| CEH (Certified Ethical Hacker) | 📖 Planned | Q2 2026 |
+| Linux+ / LPIC-1 | 🔄 Ongoing | Q1 2026 |
+| TryHackMe Top 1% | 🔄 Grinding | 2025 |
+
+> 🎓 *Building toward a full cybersecurity certification stack — one step at a time!*
 
 </div>
-
-<br/>
-
-> 🎓 *Certifications & achievements in progress — building toward CompTIA Security+, CEH & more!*
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:A371F7&height=3" width="100%"/>
 
