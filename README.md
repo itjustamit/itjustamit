@@ -131,16 +131,25 @@ status: Always learning...
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=itjustamit&show_icons=true&theme=tokyonight&bg_color=0D1117&border_color=1F6FEB&title_color=58A6FF&icon_color=A371F7&text_color=C9D1D9&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itjustamit&layout=compact&theme=tokyonight&bg_color=0D1117&border_color=1F6FEB&title_color=58A6FF&text_color=C9D1D9&hide_border=false&langs_count=8" alt="Top Languages"/>
+<!-- GitHub Stats Cards - using github-readme-stats (self-deployable, most reliable option) -->
+<a href="https://github.com/itjustamit">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itjustamit&show_icons=true&theme=tokyonight&bg_color=0D1117&border_color=1F6FEB&title_color=58A6FF&icon_color=A371F7&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itjustamit&layout=compact&theme=tokyonight&bg_color=0D1117&border_color=1F6FEB&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+</a>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=itjustamit&theme=tokyonight&background=0D1117&border=1F6FEB&stroke=1F6FEB&ring=A371F7&fire=F78166&currStreakLabel=58A6FF&sideLabels=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Streak"/>
+<!-- Streak Stats - demolab is the official maintained version -->
+<img src="https://streak-stats.demolab.com/?user=itjustamit&theme=tokyonight-duo&background=0D1117&border=1F6FEB&ring=A371F7&fire=F78166&currStreakLabel=58A6FF&sideLabels=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&hide_border=false" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itjustamit&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=A371F7&area=true&area_color=1F6FEB&hide_border=false&border_color=1F6FEB" alt="Activity Graph" width="100%"/>
+<!-- Contribution Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itjustamit/itjustamit/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itjustamit/itjustamit/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/itjustamit/itjustamit/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
 
 </div>
 
