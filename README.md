@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,50:8A2BE2,100:FF00FF&height=200&section=header&text=AMIT%20KUMAR%20DAS&fontSize=44&fontColor=FFFFFF&fontAlignY=35&animation=twinkling&fontFamily=Fira+Code" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,50:8A2BE2,100:FF00FF&height=170&section=header&animation=twinkling" width="100%"/>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=48&duration=3500&pause=100000&color=00FFFF&center=true&vCenter=true&width=850&repeat=false&lines=AMIT+KUMAR+DAS" alt="Name"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=00FFFF&center=true&vCenter=true&width=850&lines=CYBERSECURITY+ANALYST;LINUX+%7C+NETWORKING+%7C+SECURITY;SECURITY+AUTOMATION;BUILDING+%26+BREAKING+SYSTEMS" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=FF00FF&center=true&vCenter=true&width=850&lines=CYBERSECURITY+ANALYST;LINUX+%7C+NETWORKING+%7C+SECURITY;SECURITY+AUTOMATION;BUILDING+%26+BREAKING+SYSTEMS" alt="Typing Animation"/>
 
 <br>
 
@@ -17,7 +17,7 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF,100:FF00FF&height=4&animation=twinkling" width="100%"/>
 
 <div align="center">
 <h2>🛡️ SECURITY TERMINAL</h2>
@@ -40,7 +40,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2000&pause=500&color=FF00FF&center=true&vCenter=true&width=700&lines=%5BSYSTEM%5D+Initializing...;%5BOK%5D+Security+modules+loaded;%5BOK%5D+Network+modules+loaded;%5BOK%5D+Linux+environment+ready;%5BSTATUS%5D+SYSTEM+ONLINE" alt="System Animation"/>
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,100:8A2BE2&height=4&animation=twinkling" width="100%"/>
 
 ## 👨‍💻 WHOAMI
 
@@ -79,7 +79,7 @@ I'm a <b>Cybersecurity Analyst</b> interested in understanding how systems work,
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00FFFF&height=4&animation=twinkling" width="100%"/>
 
 <div align="center">
 
@@ -109,38 +109,17 @@ Python<br>Shell<br>CLI Tools<br>Security Automation
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF,100:FF00FF&height=4&animation=twinkling" width="100%"/>
 
 <div align="center">
 
-## 📊 LIVE STATS
+## 📊 STREAK STATS
 
-<img src="https://github-readme-stats.vercel.app/api?username=itjustamit&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&border_color=00FFFF&hide_border=false&count_private=true" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=itjustamit&theme=tokyonight&background=0D1117&ring=FF00FF&fire=00FFFF&currStreakLabel=00FFFF&border=00FFFF" height="165"/>
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itjustamit&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&border_color=00FFFF&hide_border=false" height="165"/>
-<img src="https://github-profile-trophy.vercel.app/?username=itjustamit&theme=tokyonight&no-frame=true&margin-w=8&row=2&column=3" height="165"/>
-
 </div>
 
----
-
-<div align="center">
-
-## 📈 CONTRIBUTION ACTIVITY
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itjustamit&theme=tokyo-night&bg_color=0D1117&color=00FFFF&line=FF00FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-<br><br>
-
-<!-- Snake contribution animation — requires a one-time GitHub Action in your profile repo (itjustamit/itjustamit). See note below the file. -->
-<img src="https://raw.githubusercontent.com/itjustamit/itjustamit/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation"/>
-
-</div>
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,100:00FFFF&height=4&animation=twinkling" width="100%"/>
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=600&color=00FFFF&center=true&vCenter=true&width=700&lines=%3E%3E+ACCESSING+PROJECT+DATABASE...;%3E%3E+PROJECTS+FOUND;%3E%3E+LOADING+SECURITY+LABS..." alt="Project Animation"/>
@@ -215,26 +194,33 @@ HTML • CSS
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:FF00FF&height=4&animation=twinkling" width="100%"/>
 
 <div align="center">
 
 ## 🧰 SECURITY ARSENAL
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1900&pause=500&color=FF00FF&center=true&vCenter=true&width=700&lines=%5B%2B%5D+Loading+security+arsenal...;%5B%2B%5D+Linux+ready;%5B%2B%5D+Python+ready;%5B%2B%5D+Networking+ready;%5B%2B%5D+Automation+ready;%5BOK%5D+ARSENAL+ONLINE" alt="Arsenal Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1900&pause=500&color=FF00FF&center=true&vCenter=true&width=700&lines=%5B%2B%5D+Loading+security+arsenal...;%5BOK%5D+ARSENAL+ONLINE" alt="Arsenal Animation"/>
 
 <br>
 
-<h3>💻 Programming</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1600&pause=300&color=00FFFF&center=true&vCenter=true&width=500&lines=%3E+loading+python%2C+bash%2C+javascript..." alt="Programming caption"/>
+<br>
 <img src="https://skillicons.dev/icons?i=python,bash,javascript"/>
 
-<h3>🐧 Operating Systems</h3>
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1600&pause=300&color=00FFFF&center=true&vCenter=true&width=500&lines=%3E+mounting+linux%2C+windows..." alt="OS caption"/>
+<br>
 <img src="https://skillicons.dev/icons?i=linux,windows"/>
 
-<h3>⚙️ Development</h3>
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1600&pause=300&color=00FFFF&center=true&vCenter=true&width=500&lines=%3E+pulling+git%2C+github%2C+docker%2C+mysql..." alt="Dev caption"/>
+<br>
 <img src="https://skillicons.dev/icons?i=git,github,docker,mysql"/>
 
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/LINUX%20SECURITY-111111?style=for-the-badge&logo=linux&logoColor=FCC624"/>
 <img src="https://img.shields.io/badge/NETWORK%20SECURITY-111111?style=for-the-badge"/>
@@ -243,7 +229,7 @@ HTML • CSS
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,100:8A2BE2&height=4&animation=twinkling" width="100%"/>
 
 # 💻 CURRENT MISSION
 
@@ -266,7 +252,7 @@ HTML • CSS
 └─────────────────────────────────────────────────────────┘
 </pre>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF,100:8A2BE2&height=4&animation=twinkling" width="100%"/>
 
 <div align="center">
 
@@ -290,7 +276,7 @@ HTML • CSS
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00FFFF&height=4&animation=twinkling" width="100%"/>
 
 # 🧪 CYBERSECURITY LABS
 
@@ -306,9 +292,13 @@ HTML • CSS
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF,100:FF00FF&height=4&animation=twinkling" width="100%"/>
 
 # 🎯 SECURITY ROADMAP
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1800&pause=400&color=00FFFF&center=true&vCenter=true&width=500&lines=%3E+compiling+roadmap..." alt="Roadmap caption"/>
+</div>
 
 <pre>
                          CYBERSECURITY
@@ -326,7 +316,7 @@ HTML • CSS
                          SECURITY ENGINEER
 </pre>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,100:8A2BE2&height=4&animation=twinkling" width="100%"/>
 
 <div align="center">
 
@@ -353,10 +343,6 @@ HTML • CSS
 <br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=700&color=00FFFF&center=true&vCenter=true&width=700&lines=Always+learning.;Always+building.;Always+securing.+%F0%9F%94%90" alt="Footer Animation"/>
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Cyber Animation"/>
 
 <br><br>
 
